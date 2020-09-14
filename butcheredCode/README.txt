@@ -1,0 +1,5 @@
+So here is a bunch of code that completely went down the drain.
+
+In order to get math credits, I needed to program a pythagorean solver. Does the algebra for you. Little did I know, I had very little knowledge of geometry. So, after about 2 hours of research on what in the world trigonometry was, I was able to construct a disgusting program that allowed the user to input 2 sides and get the missing side's output. Sadly, the code heavily lost its quality as the project progressed. This was one of the first times I was working strongly with TKinter, and I found out that it was one of the worst graphics libraries that I have met. Not that I have tried many. 
+
+With all that done, I felt it would be important to show where I most struggle. Hopefully this gives you a better idea of where I stood a couple months ago.

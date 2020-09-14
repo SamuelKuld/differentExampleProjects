@@ -1,0 +1,5 @@
+This a collection of 3 projects that I have made over the last few months. READMEs are included with every project explaining how to use them and their upbringing. One of the big complications that I had with all of these was the lack of graphics. And that is currently my greatest weakness. With that said, I do believe that with time and effort, I can learn how to work more with graphics.
+
+I am really, really considering C# to be my next language. Although I have tried to learn it at a minimum of 3 times at this point, I think that it's the only way to go. If I can understand the idea and goal of .NET, I think that would be incredibly beneficial. But as of now, I am still trying to figure out how to learn. 
+
+Hopefully this is legible to an extent. I didn't use comments for the most of these, so I hope that you can understand what's going on if you do try to. Past that, enjoy.
